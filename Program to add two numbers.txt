@@ -1,0 +1,21 @@
+  /* Major Assignment 
+Name         : Muhammad Zawar
+I D          : 11681
+program      : BS(CS)
+Submitted to : Sir Iftikhar Alam     */
+
+#include <iostream>
+using namespace std;
+int main()
+{
+	int var1,var2;
+	
+	cout<<"\n\t <><><>< Hello World ><><><>\n"
+	    <<" ^~^~^~^~^ Program to Add Two Numbers ^~^~^~^~^\n\n";
+	
+	cout<<"\n Enter Number 1 : "; cin>>var1;
+	cout<<" Enter Number 2 : ";   cin>>var2;
+	cout<<"\n\n Result After Addition : "<<(var1+var2);
+	
+	return 0;
+}
